@@ -33,6 +33,5 @@
 </br>
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/RuandersonSouza/count.svg" /></p>
 
+<div align="center"> Ruanderson
 
-
-<Ruanderson>
