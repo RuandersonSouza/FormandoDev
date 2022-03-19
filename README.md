@@ -31,7 +31,7 @@
   <a href="Link linkedin" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 </br>
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/RuandersonSouza/count.svg" /></p>
+<p align="center">   <img alingn="center" src="https://www.linkedin.com/in/ruanderson-raimy-24b9a31b/" /></p>
 
 
 ![snake gif](https://github.com/RuandersonSouza/RuandersonSouza/blob/output/github-contribution-grid-snake.svg)
